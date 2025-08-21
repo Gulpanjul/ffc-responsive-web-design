@@ -41,8 +41,8 @@ Through this project, I explored the core web technologies:
 - [x] Learn CSS Flexbox by Building a Photo Gallery
 - [x] Learn Typography by Building a Nutrition Label
 - [x] Learn Accessibility by Building a Quiz
-- [ ] **Certification Project**: Tribute Page
-- [ ] Learn More About CSS Pseudo Selectors by Building A Balance Sheet
+- [x] **Certification Project**: Tribute Page
+- [x] Learn More About CSS Pseudo Selectors by Building A Balance Sheet
 - [ ] Learn Intermediate CSS by Building a Cat Painting
 - [ ] Learn Responsive Web Design by Building a Piano
 - [ ] **Certification Project**: Technical Documentation Page
