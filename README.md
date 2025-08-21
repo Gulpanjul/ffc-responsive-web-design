@@ -43,7 +43,7 @@ Through this project, I explored the core web technologies:
 - [x] Learn Accessibility by Building a Quiz
 - [x] **Certification Project**: Tribute Page
 - [x] Learn More About CSS Pseudo Selectors by Building A Balance Sheet
-- [ ] Learn Intermediate CSS by Building a Cat Painting
+- [x] Learn Intermediate CSS by Building a Cat Painting
 - [ ] Learn Responsive Web Design by Building a Piano
 - [ ] **Certification Project**: Technical Documentation Page
 - [ ] Learn CSS Variables by Building a City Skyline
