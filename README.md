@@ -32,7 +32,7 @@ Through this project, I explored the core web technologies:
 
 ## Roadmap
 
-- [ ] Learn HTML by Building a Cat Photo App
+- [x] Learn HTML by Building a Cat Photo App
 - [ ] Learn Basic CSS by Building a Cafe Menu
 - [ ] Learn CSS Colors by Building a Set of Colored Markers
 - [ ] Learn HTML Forms by Building a Registration Form
