@@ -1,0 +1,120 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Header Styling */
+#header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #333;
+  color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#header-img {
+  height: 50px;
+}
+
+#nav-bar {
+  display: flex;
+}
+
+.nav-link {
+  color: white;
+  margin-left: 1rem;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+/* Main Content Styling */
+#video-section {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+#video {
+  width: 100%;
+  max-width: 600px;
+  height: 350px;
+}
+
+/* Form Section Styling */
+#form-section {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+#form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  width: 100%;
+}
+
+#email {
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+#submit {
+  padding: 0.5rem;
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#submit:hover {
+  background-color: #555;
+}
+
+/* Footer Styling */
+#footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #333;
+  color: white;
+  margin-top: 2rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  #header {
+    flex-direction: column;
+  }
+
+  #nav-bar {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #video {
+    height: 250px;
+  }
+}
+
+/* Flexbox usage in form */
+#form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
