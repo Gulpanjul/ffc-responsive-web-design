@@ -34,7 +34,7 @@ Through this project, I explored the core web technologies:
 
 - [x] Learn HTML by Building a Cat Photo App
 - [x] Learn Basic CSS by Building a Cafe Menu
-- [ ] Learn CSS Colors by Building a Set of Colored Markers
+- [x] Learn CSS Colors by Building a Set of Colored Markers
 - [ ] Learn HTML Forms by Building a Registration Form
 - [ ] **Certification Project**: Survey Form
 - [ ] Learn the CSS Box Model By Building a Rothko Painting
