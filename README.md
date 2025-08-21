@@ -50,7 +50,7 @@ Through this project, I explored the core web technologies:
 - [x] Learn CSS Grid by Building a Magazine
 - [x] **Certification Project**: Product Landing Page
 - [x] Learn CSS Animation by Building a Ferris Wheel
-- [ ] Learn CSS Transforms by Building a Penguin
+- [x] Learn CSS Transforms by Building a Penguin
 - [ ] **Certification Project**: Personal Portfolio Webpage
 
 [the-certification]: images/certification.png
