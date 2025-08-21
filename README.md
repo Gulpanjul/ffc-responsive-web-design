@@ -38,7 +38,7 @@ Through this project, I explored the core web technologies:
 - [x] Learn HTML Forms by Building a Registration Form
 - [x] **Certification Project**: Survey Form
 - [x] Learn the CSS Box Model By Building a Rothko Painting
-- [ ] Learn CSS Flexbox by Building a Photo Gallery
+- [x] Learn CSS Flexbox by Building a Photo Gallery
 - [ ] Learn Typography by Building a Nutrition Label
 - [ ] Learn Accessibility by Building a Quiz
 - [ ] **Certification Project**: Tribute Page
