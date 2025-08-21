@@ -47,7 +47,7 @@ Through this project, I explored the core web technologies:
 - [x] Learn Responsive Web Design by Building a Piano
 - [x] **Certification Project**: Technical Documentation Page
 - [x] Learn CSS Variables by Building a City Skyline
-- [ ] Learn CSS Grid by Building a Magazine
+- [x] Learn CSS Grid by Building a Magazine
 - [ ] **Certification Project**: Product Landing Page
 - [ ] Learn CSS Animation by Building a Ferris Wheel
 - [ ] Learn CSS Transforms by Building a Penguin
