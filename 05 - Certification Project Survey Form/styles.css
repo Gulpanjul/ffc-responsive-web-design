@@ -1,0 +1,39 @@
+body {
+  place-items: center;
+  background-color: darkslategray;
+  color: white;
+  text-align: center;
+}
+#survey-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 80%;
+}
+#survey-form label {
+  text-align: left;
+}
+#survey-form label span {
+  color: red;
+}
+#survey-form input,
+#survey-form select,
+#survey-form textarea {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+}
+#survey-form textarea {
+  resize: vertical;
+}
+#survey-form input[type="submit"] {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+#survey-form input[type="submit"]:hover {
+  background-color: #45a049;
+}
